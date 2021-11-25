@@ -1,0 +1,134 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/utilities";
+.white-back{
+  background: white;
+}
+
+.light-back{
+  background: rgb(248,249,250) ;
+}
+
+
+.amina{
+color: #57579B;
+
+}
+
+.aminabtn{
+  border-radius: 5px;
+}
+.sign-up{
+  justify-content: space-around;
+}
+
+.footerback{
+  background: #8181B4;
+  color: white;
+}
+
+.invest-color{
+  color: #2D2D82;
+
+}
+.invest-bg{
+ background-color:  #EEEEF7;
+}
+
+
+.Charcoal{
+  color:  #414141;
+;
+}
+.hr_invest{
+  width:65%;text-align:right;margin-left:20%
+}
+
+
+.median_return{
+  color: darkmagenta;
+}
+
+.why-invest-img{
+  border-radius: 10%;
+}
+
+.z-indexx{
+  z-index: -1;
+}
+
+@media (max-width: 767px) {
+.mobile{
+position: absolute;
+  top: 20%;
+  bottom: 40%;
+}
+}
+
+@media (min-width: 767px) {
+  .blue-vector-r{
+  position: relative;
+}
+
+.blue-vector-abs{
+  position: absolute;
+  right: 50px;
+ margin-right: -150px;
+
+
+}
+
+}
+@media (min-width: 767px) {
+  .orange-vector-r{
+position: relative;
+}
+.orange-vector-abs{
+  position: absolute;
+  left: -8rem;
+  bottom: 5vh;
+
+}
+}
+/*@media (max-device-width: 320px) {*/
+
+
+/*}*/
+/*}*/
+@media (min-device-width: 375px){
+  .fs-60{
+    font-size: 60px;
+  }
+  .arr-no1{
+  position: relative;
+}
+
+.arr-no1-1{
+  position: absolute;
+  left: 70px;
+  right: 10px;
+  top: -20px;
+
+}
+
+.no-2{
+  position: relative;
+}
+.no-2-2{
+  position: absolute;
+  left: 20% ;
+  top: -10%
+}
+}z
+.no-3{
+  position: relative;
+
+}
+
+.no-3-3{
+  position: absolute;
+  left: -05%;
+}
+
+
+
